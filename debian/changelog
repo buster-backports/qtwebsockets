@@ -1,3 +1,11 @@
+qtwebsockets-opensource-src (5.12.5-2) buster; urgency=medium
+
+  * d/control:
+    - Point Vcs:* to personal github versioning.
+    - Add myself as uploader.
+ 
+ -- Franciscarlos Soares <prof.franciscarlos@gmail.com>  Mon, 30 Sep 2019 16:20:19 -0300
+
 qtwebsockets-opensource-src (5.12.5-1) experimental; urgency=medium
 
   * New upstream release.
